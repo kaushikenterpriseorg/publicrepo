@@ -12,7 +12,7 @@
       "value": "genPassword!23"
     },
     "vmSize": {
-      "value": "Standard_E2s_v3"
+      "value": "Standard_D2s_v3"
     },
     "authenticationType": {
       "value": "password"
