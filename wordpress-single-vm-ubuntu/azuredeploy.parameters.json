@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "vmDnsName": {
-      "value": "kaushikfqdn"
+      "value": "kaushiksfqdn"
     },
     "adminUsername": {
       "value": "genUnique"
